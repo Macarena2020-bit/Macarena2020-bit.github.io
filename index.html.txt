@@ -1,0 +1,202 @@
+<section id="servicii" class="section">
+  <div class="container">
+    <h2>Servicii</h2>
+    <p class="lead">Curățare extractivă în profunzime pentru textile: canapele, colțare, fotolii, scaune, saltele, mochetă și interior auto. Înlăturăm pete de cafea, vin, sosuri, urină, miros de fum, păr de animale și acarieni.</p>
+    <div class="grid">
+      <div class="service card">
+        <img alt="Curățare canapea" src="https://images.unsplash.com/photo-1615873968403-89e068629265?q=80&w=1200&auto=format&fit=crop">
+        <h3>Canapele și colțare</h3>
+        <p>Pre-tratare, periere, spălare extractivă, neutralizare miros.</p>
+        <div class="chips">
+          <span class="chip">Microfibră</span>
+          <span class="chip">Catifea</span>
+          <span class="chip">Textil mixt</span>
+        </div>
+      </div>
+      <div class="service card">
+        <img alt="Curățare saltea" src="https://images.unsplash.com/photo-1578898887932-dce23f5b1e04?q=80&w=1200&auto=format&fit=crop">
+        <h3>Saltele</h3>
+        <p>Igienizare anti-acarieni, pete localizate, reîmprospătare.</p>
+        <div class="chips">
+          <span class="chip">1 Persoană</span>
+          <span class="chip">Queen/King</span>
+          <span class="chip">Topper</span>
+        </div>
+      </div>
+      <div class="service card">
+        <img alt="Curățare interior auto" src="https://images.unsplash.com/photo-1483721310020-03333e577078?q=80&w=1200&auto=format&fit=crop">
+        <h3>Interior auto</h3>
+        <p>Scaune, banchetă, plafon, mochete. Usucă rapid, fără reziduuri lipicioase.</p>
+        <div class="chips">
+          <span class="chip">Textil</span>
+          <span class="chip">Detalii plastice</span>
+          <span class="chip">Ozonizare opțional</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="preturi" class="section">
+  <div class="container">
+    <h2>Prețuri orientative</h2>
+    <p class="lead">Prețul final depinde de gradul de murdărie, tipul materialului și suprafață. Oferim deviz gratuit prin WhatsApp cu poze.</p>
+    <div class="grid">
+      <div class="card service">
+        <h3>Canapea 2 locuri</h3>
+        <p class="price">de la 180 lei</p>
+        <p>Include pre-tratare pete și neutralizare miros.</p>
+      </div>
+      <div class="card service">
+        <h3>Canapea colțar</h3>
+        <p class="price">de la 280 lei</p>
+        <p>Calcul per segment/locuri. Reduceri pentru seturi.</p>
+      </div>
+      <div class="card service">
+        <h3>Saltea</h3>
+        <p class="price">90–180 lei</p>
+        <p>În funcție de dimensiune și grad de murdărie.</p>
+      </div>
+      <div class="card service">
+        <h3>Scaun tapițat</h3>
+        <p class="price">25–40 lei</p>
+        <p>Discount pentru cantitate 6+ bucăți.</p>
+      </div>
+      <div class="card service">
+        <h3>Interior auto (textil)</h3>
+        <p class="price">de la 300 lei</p>
+        <p>Scaune + banchetă + mochete + portbagaj.</p>
+      </div>
+      <div class="card service">
+        <h3>Mochetă / covor</h3>
+        <p class="price">10–18 lei/m²</p>
+        <p>Minim operațional 150 lei în Brașov.</p>
+      </div>
+    </div>
+    <p class="note">Deplasare gratuită în Brașov. În împrejurimi poate exista o taxă de transport, în funcție de distanță.</p>
+  </div>
+</section>
+
+<section id="galerie" class="section">
+  <div class="container">
+    <h2>Înainte și După</h2>
+    <p class="lead">Rezultate reale obținute cu Kärcher Puzzi 8/1 și soluții profesionale pentru pete dificile (cafea, vin, urină de animale, sosuri).</p>
+    <div class="ba">
+      <div class="card panel">
+        <h3>Canapea bej — pete de cafea</h3>
+        <div class="photo">
+          <img alt="Înainte curățare" src="https://images.unsplash.com/photo-1549187774-b4e9b0445b41?q=80&w=1200&auto=format&fit=crop">
+        </div>
+        <small class="note">Înainte</small>
+      </div>
+      <div class="card panel">
+        <h3>După curățare extractivă</h3>
+        <div class="photo">
+          <img alt="După curățare" src="https://images.unsplash.com/photo-1616594039964-ae9021a40085?q=80&w=1200&auto=format&fit=crop">
+        </div>
+        <small class="note">După</small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="recenzii" class="section">
+  <div class="container">
+    <h2>Recenzii clienți</h2>
+    <p class="lead">Ne mândrim cu recomandările primite din partea clienților din Brașov.</p>
+    <div class="reviews">
+      <div class="card review">
+        <div class="stars">★★★★★</div>
+        <p>Foarte prompt și amabil. Canapeaua arată ca nouă, mirosul a dispărut complet. Recomand!</p>
+        <small>— Andreea M.</small>
+      </div>
+      <div class="card review">
+        <div class="stars">★★★★★</div>
+        <p>Au scos pete vechi de vin din colțar. Uscare rapidă, fără urme. Preț corect.</p>
+        <small>— Vlad I.</small>
+      </div>
+      <div class="card review">
+        <div class="stars">★★★★★</div>
+        <p>Salteaua copilului a fost igienizată impecabil. Vom apela din nou.</p>
+        <small>— Raluca P.</small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="programare" class="section">
+  <div class="container">
+    <h2>Solicită ofertă sau programare</h2>
+    <p class="lead">Răspundem rapid pe WhatsApp. Trimite poze și o scurtă descriere a materialului și petelor.</p>
+    <div class="grid">
+      <div class="card" style="padding:18px">
+        <form id="quoteForm">
+          <label>Nume
+            <input name="name" placeholder="Numele tău" required>
+          </label>
+          <label>Telefon
+            <input name="phone" type="tel" placeholder="07xx xxx xxx" required>
+          </label>
+          <label>Serviciu
+            <select name="service" required>
+              <option value="">Alege...</option>
+              <option>Canapea / Colțar</option>
+              <option>Saltea</option>
+              <option>Scaune</option>
+              <option>Interior auto</option>
+              <option>Mochetă / Covor</option>
+            </select>
+          </label>
+          <label>Adresă (Brașov)
+            <input name="address" placeholder="Cartier / stradă">
+          </label>
+          <label>Descriere pete / material
+            <textarea name="details" rows="4" placeholder="Ex: pete de cafea pe microfibră, miros de animale, suprafață ~3 locuri"></textarea>
+          </label>
+          <button class="btn" type="submit">Solicită ofertă pe WhatsApp</button>
+          <p class="note">Prin trimitere, mesajul se va deschide în WhatsApp cu datele completate. Nu stocăm informațiile pe acest site.</p>
+        </form>
+      </div>
+      <div class="card" style="padding:18px">
+        <h3>De ce TapiClean?</h3>
+        <ul>
+          <li>Echipament profesional Kärcher Puzzi 8/1</li>
+          <li>Soluții sigure, biodegradabile, fără reziduuri lipicioase</li>
+          <li>Uscare rapidă 2–4 ore</li>
+          <li>Programări flexibile, inclusiv sâmbăta</li>
+          <li>Deviz rapid pe WhatsApp cu poze</li>
+        </ul>
+        <h3>Program</h3>
+        <p class="mini">Luni–Vineri: 08:00–19:00 -  Sâmbătă: 09:00–15:00 -  Duminică: Închis</p>
+        <h3>Acoperire</h3>
+        <p class="mini">Brașov + Sânpetru, Ghimbav, Cristian, Hărman, Săcele, Codlea.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <div class="container">
+    <h2>Contact</h2>
+    <div class="grid">
+      <div class="card" style="padding:18px">
+        <p class="lead">TapiClean - Curățare tapițerii Brașov</p>
+        <p class="mini">
+          Telefon: <a href="tel:+40700000000">0700 000 000</a><br>
+          WhatsApp: <a href="https://wa.me/40700000000" target="_blank" rel="noopener">+40 700 000 000</a><br>
+          Email: <a href="mailto:contact@tapiclean.ro">contact@tapiclean.ro</a><br>
+          Adresă: Brașov, România
+        </p>
+        <p class="note">TVA inclus în prețurile afișate. Acceptăm numerar și transfer.</p>
+        <div class="chips">
+          <span class="chip">Factură la cerere</span>
+          <span class="chip">Reduceră pentru abonamente</span>
+          <span class="chip">Locuințe și firme</span>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <iframe title="Harta Brașov" src="https://www.openstreetmap.org/export/embed.html?bbox=25.523%2C45.614%2C25.643%2C45.703&amp;layer=mapnik" style="border:0;width:100%;height:100%"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
